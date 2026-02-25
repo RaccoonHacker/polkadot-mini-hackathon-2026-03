@@ -1,4 +1,4 @@
-# Deploy on Revive, Scale on Polkadot 2.0
+# Deploy on Revive Scale on Polkadot 2.0
 
 ——在 Revive 上部署，基于 Polkadot 2.0 扩展的应用
 
